@@ -1,14 +1,11 @@
+# _config.yml
 title: Dev Notes
-
 plugins:
   - jekyll-default-layout
   - jekyll-relative-links
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-optional-front-matter
-
 theme: jekyll-theme-primer
-
 repository: goldfishlaser/dev-notes
-
 permalink: pretty

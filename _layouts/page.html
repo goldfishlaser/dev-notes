@@ -10,11 +10,10 @@ layout: default
     a.innerText = a.title;
   });
   // Hack: Fix wikilinks to work with GitHub Pages baseurl
-  const baseurl = "/dev-notes/";
   document.querySelectorAll("a").forEach(l => {
     if (l.href.endsWith('.md')) {
       const slug = l.href.substring(0, l.href.length-3).split('/').pop();
-      l.href = baseurl + slug + '/';
+      l.href = '/dev-notes/' + slug + '/';
     }
   });
 </script>

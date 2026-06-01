@@ -23,6 +23,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+      - name: Show _site contents
+        run: find ./_site -name "*.html" | head -20 && cat ./_site/tao-te-ching/index.html
   deploy:
     environment:
       name: github-pages

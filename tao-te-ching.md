@@ -16,6 +16,7 @@ Returning to the root as the nature of things.
 
 ## Concepts it feeds
 [[wu-wei]]
+---
 
 
-[wu-wei]: wu-wei.md "[object Object]"
+[wu-wei]: wu-wei "Wu Wei"

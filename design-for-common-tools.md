@@ -23,7 +23,7 @@ license. Common tool constraints are a form of access design.
 - [[capability-tiers]]
 
 ## Links
-- [[DfODM]]
+[[DfODM]]
+---
 
-
-[DfODM]: DfODM "[object Object]"
+[DfODM]: DfODM "DfODM"

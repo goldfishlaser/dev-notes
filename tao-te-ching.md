@@ -1,10 +1,10 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: tao-te-ching
+title: Tao Te Ching
 type: literature
 author: Laozi
 tags: [taoism]
-created: {{date}}
+created: 2026-05-31
 ---
 
 # {{title}}

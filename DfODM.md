@@ -1,9 +1,9 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: dfodm
+title: DfODM
 type: context
 tags: [open-hardware, design, OET]
-created: {{date}}
+created: 2026-05-31
 ---
 
 # {{title}}

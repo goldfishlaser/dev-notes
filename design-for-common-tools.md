@@ -1,9 +1,9 @@
 ---
-id: {{title}}
-title: {{slug}}
+id: design-for-common-tools
+title: Design for Common Tools
 type: practice
 tags: [DfODM, open-hardware, fabrication]
-created: {{date}}
+created: 2026-05-31
 ---
 
 # {{title}}
@@ -23,3 +23,6 @@ license. Common tool constraints are a form of access design.
 
 ## Links
 - [[DfODM]]
+
+
+[DfODM]: DfODM "[object Object]"

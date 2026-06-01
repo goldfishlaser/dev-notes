@@ -23,6 +23,12 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+      - uses: actions/jekyll-build-pages@v1
+              with:
+                source: ./
+                destination: ./_site
+                token: ${{ secrets.GITHUB_TOKEN }}
+                build_revision: ${{ github.sha }}
 
   deploy:
     environment:

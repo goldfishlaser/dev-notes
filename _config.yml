@@ -8,4 +8,3 @@ plugins:
 theme: jekyll-theme-primer
 repository: goldfishlaser/dev-notes
 permalink: pretty
-baseurl: "/dev-notes"

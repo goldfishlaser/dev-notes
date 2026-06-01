@@ -7,7 +7,7 @@ tags: [taoism]
 created: 2026-05-31
 ---
 
-# {{title}}
+# Tao Te Ching
 
 ## Key claims I'm thinking with
 The usefulness of emptiness. Action through non-action. 

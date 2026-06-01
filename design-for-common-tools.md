@@ -6,9 +6,9 @@ tags: [DfODM, open-hardware, fabrication]
 created: 2026-05-31
 ---
 
-# {{title}}
+# Design for Common Tools
 
-## What I do
+## What we do
 Define the minimum tools required to fabricate a design (capability tiers).
 Prefer geometries and tolerances achievable by widely available fabrication 
 methods rather than optimizing for specialized equipment.

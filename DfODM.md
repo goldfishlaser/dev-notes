@@ -6,7 +6,7 @@ tags: [open-hardware, design, OET]
 created: 2026-05-31
 ---
 
-# {{title}}
+# DfODM
 
 ## What this is
 Design for Open and Decentralized Manufacturing — a set of design practices 
@@ -18,5 +18,5 @@ distributed communities without dependence on specialized infrastructure.
 
 ## Related
 - [[OET]]
-- 
-[design-for-common-tools]: design-for-common-tools.md "[object Object]"
+
+[design-for-common-tools]: design-for-common-tools "Design for Common Tools"

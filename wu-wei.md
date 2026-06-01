@@ -6,7 +6,7 @@ tags: [taoism, development, practice]
 created: 2026-05-31
 ---
 
-# {{title}}
+# Wu Wei
 
 ## Core idea
 - Going with the flow

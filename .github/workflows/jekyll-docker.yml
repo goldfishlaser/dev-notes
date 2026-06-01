@@ -20,10 +20,6 @@ jobs:
         with:
           source: ./
           destination: ./_site
-          future: true
-        env:
-        JEKYLL_ENV: production
-        PAGES_REPO_NWO: goldfishlaser/dev-notes
       - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site

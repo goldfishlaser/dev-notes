@@ -5,6 +5,7 @@ type: literature
 author: Laozi
 tags: [taoism]
 created: 2026-05-31
+layout: page
 ---
 
 # Tao Te Ching

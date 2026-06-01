@@ -4,6 +4,7 @@ title: DfODM
 type: context
 tags: [open-hardware, design, OET]
 created: 2026-05-31
+layout: page
 ---
 
 # DfODM

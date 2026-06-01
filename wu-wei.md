@@ -4,6 +4,7 @@ title: Wu Wei
 type: concept
 tags: [taoism, development, practice]
 created: 2026-05-31
+layout: page
 ---
 
 # Wu Wei

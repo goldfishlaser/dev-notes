@@ -4,6 +4,7 @@ title: Design for Common Tools
 type: practice
 tags: [DfODM, open-hardware, fabrication]
 created: 2026-05-31
+layout: page
 ---
 
 # Design for Common Tools

@@ -15,5 +15,7 @@ jobs:
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && git config --global --add safe.directory /srv/jekyll && bundle install && jekyll build --future"
+        -v ${{ github.workspace }}:/srv/jekyll \
+        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        -e GIT_CONFIG_GLOBAL=/tmp/gitconfig \
+        jekyll/builder:latest /bin/bash -c "git config --global --add safe.directory /srv/jekyll && chmod -R 777 /srv/jekyll && bundle install && jekyll build --future"

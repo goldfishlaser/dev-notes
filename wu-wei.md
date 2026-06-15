@@ -17,7 +17,6 @@ layout: page
 
 ## Links
 [[tao-te-ching]]
----
 
 
 [tao-te-ching]: tao-te-ching "Tao Te Ching"

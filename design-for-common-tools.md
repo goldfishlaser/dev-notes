@@ -19,11 +19,13 @@ Designs that require rare tooling are effectively closed regardless of their
 license. Common tool constraints are a form of access design.
 
 ## Related concepts
-- [[convivial-technology]]
+- [[convivial-tools]]
 - [[capability-tiers]]
 
 ## Links
 [[DfODM]]
----
+
 
 [DfODM]: DfODM "DfODM"
+
+[convivial-technology]: convivial-technology "convivial-technology"

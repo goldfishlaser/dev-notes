@@ -9,8 +9,8 @@ title: Dev Notes
 - [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
 {% endfor %}
 
-## Context
-{% assign context = site.pages | where: "type", "context" %}
+## Contexts
+{% assign contexts = site.pages | where: "type", "context" %}
 {% for note in contexts %}
 - [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
 {% endfor %}

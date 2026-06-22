@@ -9,6 +9,12 @@ title: Dev Notes
 - [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
 {% endfor %}
 
+## Context
+{% assign context = site.pages | where: "type", "context" %}
+{% for note in contexts %}
+- [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
+{% endfor %}
+
 ## Literature
 {% assign lit = site.pages | where: "type", "literature" %}
 {% for note in lit %}

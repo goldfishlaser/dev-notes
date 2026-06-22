@@ -1,15 +1,14 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: ${TM_FILENAME_BASE}
+title: ${TM_FILENAME_BASE}
 type: concept
 tags: []
-created: {{date}}
+created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
 ---
 
-# {{title}}
+# ${TM_FILENAME_BASE}
 
 ## Core idea
 
 
 ## Links
----

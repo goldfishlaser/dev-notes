@@ -1,10 +1,10 @@
 ---
-id: ${TM_FILENAME_BASE}
-title: ${TM_FILENAME_BASE}
+id: {{slug}}
+title: {{title}}
 type: literature
 author: 
 tags: []
-created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+created: {{date}}
 ---
 
 # {{title}}

@@ -1,10 +1,10 @@
 ---
-id: ${TM_FILENAME_BASE}
-title: ${TM_FILENAME_BASE}
+id: The Vegan Book of Permaculture
+title: The Vegan Book of Permaculture
 type: literature
 author: 
 tags: []
-created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+created: 2026-06-22
 ---
 
 # {{title}}

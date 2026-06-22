@@ -1,10 +1,10 @@
 ---
-id: ${TM_FILENAME_BASE}
-title: ${TM_FILENAME_BASE}
+id: Permaculture A Designers Manual
+title: Permaculture A Designers Manual
 type: literature
 author: 
 tags: []
-created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
+created: 2026-06-22
 ---
 
 # {{title}}

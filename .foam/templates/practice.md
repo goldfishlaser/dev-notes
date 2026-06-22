@@ -1,16 +1,16 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: ${TM_FILENAME_BASE}
+title: ${TM_FILENAME_BASE}
 type: practice
 tags: []
-created: {{date}}
+created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
 ---
 
 # {{title}}
 
-## What we do
+## Methodology
 
-## Why it works
+## Rationale
 
 ## Related concepts
 

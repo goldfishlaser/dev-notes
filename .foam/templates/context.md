@@ -1,9 +1,9 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: ${TM_FILENAME_BASE}
+title: ${TM_FILENAME_BASE}
 type: context
 tags: []
-created: {{date}}
+created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
 ---
 
 # {{title}}

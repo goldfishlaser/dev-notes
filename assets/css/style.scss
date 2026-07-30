@@ -72,3 +72,163 @@ blockquote {
   color: black;
   border-radius: 4px;
 }
+
+/* Tag explorer */
+#tag-explorer {
+  margin-top: 8px;
+}
+ 
+.te-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+ 
+#te-search {
+  flex: 1 1 220px;
+  padding: 6px 10px;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+  font-size: 14px;
+}
+ 
+.te-mode-toggle {
+  display: inline-flex;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+  overflow: hidden;
+}
+ 
+.te-mode-btn {
+  background: #fafbfc;
+  border: none;
+  padding: 6px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  color: #24292e;
+}
+ 
+.te-mode-btn + .te-mode-btn {
+  border-left: 1px solid #d1d5da;
+}
+ 
+.te-mode-btn.active {
+  background: #3300ff;
+  color: white;
+}
+ 
+.te-clear-btn {
+  background: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+  padding: 6px 10px;
+  font-size: 13px;
+  cursor: pointer;
+  color: #24292e;
+}
+ 
+.te-clear-btn:hover,
+.te-mode-btn:hover {
+  background: #f0f0ff;
+}
+ 
+.te-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 8px;
+  padding: 14px;
+  margin-bottom: 16px;
+  background: #f6f8fa;
+  border-radius: 6px;
+}
+ 
+.te-tag {
+  background: white;
+  border: 1px solid #d1d5da;
+  border-radius: 999px;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: #3300ff;
+  line-height: 1.6;
+}
+ 
+.te-tag:hover {
+  border-color: #3300ff;
+}
+ 
+.te-tag.active {
+  background: #3300ff;
+  border-color: #3300ff;
+  color: white;
+}
+ 
+.te-freq-1 { font-size: 12px; }
+.te-freq-2 { font-size: 13px; }
+.te-freq-3 { font-size: 15px; }
+.te-freq-4 { font-size: 17px; }
+.te-freq-5 { font-size: 20px; font-weight: 600; }
+ 
+.te-count {
+  font-size: 13px;
+  color: #586069;
+  margin-bottom: 8px;
+}
+ 
+.te-results {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+ 
+.te-result {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid #eaecef;
+}
+ 
+.te-result a {
+  font-size: 15px;
+  font-weight: 500;
+}
+ 
+.te-result-type {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #6a737d;
+  background: #f1f2f4;
+  padding: 1px 6px;
+  border-radius: 4px;
+}
+ 
+.te-result-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+ 
+.te-mini-tag {
+  background: none;
+  border: 1px solid #d1d5da;
+  border-radius: 999px;
+  padding: 1px 8px;
+  font-size: 11px;
+  color: #586069;
+  cursor: pointer;
+}
+ 
+.te-mini-tag:hover {
+  border-color: #3300ff;
+  color: #3300ff;
+}
+ 
+.te-mini-tag.active {
+  background: #3300ff;
+  border-color: #3300ff;
+  color: white;
+}

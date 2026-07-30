@@ -2,7 +2,7 @@
 id: barley
 title: barley
 type: concept
-tags: []
+tags: [homesteading]
 created: 2026-06-22
 ---
 
@@ -10,6 +10,11 @@ created: 2026-06-22
 
 ## Core idea
 
+Barley is a nutritious grain high in fiber, carbs, and minerals such as Manganese, Selenium, B Vitamins (niacin, thiamin, and vitamin B6), Iron, & Magnesium.
+Barley is one of the [[five grains]]. 
+In a high-desert environment like Arizona’s Zone 8a, barley should be planted in the late fall (October through early November) to utilize winter moisture and avoid extreme summer heat. Alternatively, it can be planted as a spring crop in late January to February as soon as the soil is workable.
+I should consider varieties like Seco Barley, Purple Dolma Barley, Jet Black Barley, and Hockett Barley.
 
 ## Links
-p
+
+[five grains]: <five grains> "five grains"

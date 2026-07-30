@@ -1,5 +1,5 @@
 ---
-id: air filtration
+id: air-filtration
 title: air filtration
 type: concept
 tags: [ecology]

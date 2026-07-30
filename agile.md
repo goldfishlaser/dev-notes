@@ -2,7 +2,7 @@
 id: agile
 title: agile
 type: concept
-tags: []
+tags: [software development]
 created: 2026-06-22
 ---
 

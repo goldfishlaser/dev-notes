@@ -1,5 +1,5 @@
 ---
-id: Barefoot Doctors
+id: barefoot-doctors
 title: Barefoot Doctors
 type: literature
 author: 

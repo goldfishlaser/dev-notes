@@ -1,5 +1,5 @@
 ---
-id: soil science
+id: soil-science
 title: soil science
 type: concept
 tags: [ecology]

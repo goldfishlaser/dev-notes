@@ -1,5 +1,5 @@
 ---
-id: my diet
+id: my-diet
 title: my diet
 type: concept
 tags: [nurition, food]

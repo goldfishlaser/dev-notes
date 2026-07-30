@@ -1,5 +1,5 @@
 ---
-id: dISD
+id: disd
 title: dISD
 type: concept
 tags: [management, courseware]

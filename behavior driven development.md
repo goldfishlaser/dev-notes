@@ -1,5 +1,5 @@
 ---
-id: behavior driven development
+id: behavior-driven-development
 title: behavior driven development
 type: concept
 tags: [software, management]

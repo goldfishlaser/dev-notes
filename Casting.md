@@ -1,5 +1,5 @@
 ---
-id: Casting
+id: casting
 title: Casting
 type: context
 tags: [fabrication]

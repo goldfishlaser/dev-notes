@@ -1,5 +1,5 @@
 ---
-id: DevOps
+id: devops
 title: DevOps
 type: concept
 tags: [IT, software]

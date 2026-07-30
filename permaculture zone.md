@@ -1,5 +1,5 @@
 ---
-id: permaculture zone
+id: permaculture-zone
 title: permaculture zone
 type: concept
 tags: [permaculture]

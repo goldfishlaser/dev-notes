@@ -1,5 +1,5 @@
 ---
-id: Kamikatsu
+id: kamikatsu
 title: Kamikatsu
 type: concept
 tags: [ecology]

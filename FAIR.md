@@ -1,5 +1,5 @@
 ---
-id: FAIR
+id: fair
 title: FAIR
 type: concept
 tags: [management, accessibility]

@@ -1,5 +1,5 @@
 ---
-id: Continuous Integration
+id: continuous-integration
 title: Continuous Integration
 type: concept
 tags: [software]

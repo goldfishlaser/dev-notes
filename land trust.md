@@ -1,5 +1,5 @@
 ---
-id: land trust
+id: land-trust
 title: land trust
 type: concept
 tags: [policy]

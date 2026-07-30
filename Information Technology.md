@@ -1,5 +1,5 @@
 ---
-id: Information Technology
+id: information-technology
 title: Information Technology
 type: concept
 tags: [IT]

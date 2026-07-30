@@ -1,5 +1,5 @@
 ---
-id: Social Ecology
+id: social-ecology
 title: Social Ecology
 type: concept
 tags: [social-ecology]

@@ -1,5 +1,5 @@
 ---
-id: existential risk
+id: existential-risk
 title: existential risk
 type: concept
 tags: [ecology, risk]

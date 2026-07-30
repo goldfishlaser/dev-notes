@@ -1,5 +1,5 @@
 ---
-id: information design
+id: information-design
 title: information design
 type: concept
 tags: [management, docs]

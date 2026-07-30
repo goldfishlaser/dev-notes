@@ -4,7 +4,11 @@
 
   var notes = JSON.parse(dataEl.textContent).map(function (n) {
     n.tags = n.tags || [];
+    n.title = (n.title == null) ? "" : String(n.title);
     return n;
+  });
+  notes.sort(function (a, b) {
+    return a.title.localeCompare(b.title, undefined, { sensitivity: "base" });
   });
 
   var cloudEl = document.getElementById("te-cloud");

@@ -1,5 +1,5 @@
 ---
-id: yaml datastore
+id: yaml-datastore
 title: yaml datastore
 type: concept
 tags: [software development]

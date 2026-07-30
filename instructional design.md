@@ -1,5 +1,5 @@
 ---
-id: instructional design
+id: instructional-design
 title: instructional design
 type: concept
 tags: [management]

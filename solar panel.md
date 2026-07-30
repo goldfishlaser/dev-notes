@@ -1,5 +1,5 @@
 ---
-id: solar panel
+id: solar-panel
 title: solar panel
 type: concept
 tags: [renewable-energy]

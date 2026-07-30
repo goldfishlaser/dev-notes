@@ -1,5 +1,5 @@
 ---
-id: open source
+id: open-source
 title: open source
 type: concept
 tags: [CS, programming, software]

@@ -1,5 +1,5 @@
 ---
-id: feng shui
+id: feng-shui
 title: feng shui
 type: concept
 tags: [spirituality, building, design]

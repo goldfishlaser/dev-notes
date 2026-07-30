@@ -1,5 +1,5 @@
 ---
-id: Fediverse
+id: fediverse
 title: Fediverse
 type: concept
 tags: [IT, media]

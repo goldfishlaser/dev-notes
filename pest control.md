@@ -1,5 +1,5 @@
 ---
-id: pest control
+id: pest-control
 title: pest control
 type: concept
 tags: [ecology]

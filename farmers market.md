@@ -1,5 +1,5 @@
 ---
-id: farmers market
+id: farmers-market
 title: farmers market
 type: concept
 tags: [business]

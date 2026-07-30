@@ -1,5 +1,5 @@
 ---
-id: Guilds
+id: guilds
 title: Guilds
 type: concept
 tags: [permaculture]

@@ -1,12 +1,12 @@
 ---
-id: Natural Building
+id: natural-building
 title: Natural Building
 type: context
 tags: [homesteading, housing]
 created: 2026-06-22
 ---
 
-# {{title}}
+# Natural Building
 
 ## What this is
 

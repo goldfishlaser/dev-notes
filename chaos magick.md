@@ -1,5 +1,5 @@
 ---
-id: chaos magick
+id: chaos-magick
 title: chaos magick
 type: concept
 tags: [magic, spirituality]

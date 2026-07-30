@@ -26,7 +26,6 @@ title: Dev Notes
 {% assign literature = site.pages | where: "type", "literature" %}
 {% assign practices = site.pages | where: "type", "practice" %}
 {% assign notes = concepts | concat: contexts | concat: literature | concat: practices %}
-{% assign notes = notes | sort: "title" %}
 {% for note in notes %}  {
     "title": {{ note.title | default: note.name | jsonify }},
     "url": {{ note.url | prepend: site.baseurl | jsonify }},

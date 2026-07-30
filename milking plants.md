@@ -1,12 +1,12 @@
 ---
-id: milking plants
+id: milking-plants
 title: milking plants
 type: context
 tags: [food]
 created: 2026-06-22
 ---
 
-# {{title}}
+# Milking Plants
 
 ## What this is
 

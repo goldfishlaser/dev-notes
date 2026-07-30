@@ -1,5 +1,5 @@
 ---
-id: Permaculture
+id: permaculture
 title: Permaculture
 type: concept
 tags: [permaculture, ecology]

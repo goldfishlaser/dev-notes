@@ -1,5 +1,5 @@
 ---
-id: graphic design
+id: graphic-design
 title: graphic design
 type: concept
 tags: [media]

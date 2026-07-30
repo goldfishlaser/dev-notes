@@ -1,5 +1,5 @@
 ---
-id: circular production
+id: circular-production
 title: circular production
 type: concept
 tags: [DfODM, open-hardware, fabrication]

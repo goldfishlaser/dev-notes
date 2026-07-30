@@ -1,5 +1,5 @@
 ---
-id: decentralized manufacturing
+id: decentralized-manufacturing
 title: decentralized manufacturing
 type: concept
 tags: [DfODM, open-hardware, fabrication]

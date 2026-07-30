@@ -1,5 +1,5 @@
 ---
-id: product marketing
+id: product-marketing
 title: product marketing
 type: concept
 tags: [management, business]

@@ -1,5 +1,5 @@
 ---
-id: cardinal directions
+id: cardinal-directions
 title: cardinal directions
 type: concept
 tags: [ecology]

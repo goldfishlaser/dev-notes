@@ -1,5 +1,5 @@
 ---
-id: emergency preparedness
+id: emergency-preparedness
 title: emergency preparedness
 type: context
 tags: [risk, management]

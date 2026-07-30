@@ -1,13 +1,13 @@
 ---
-id: Permaculture A Designers Manual
+id: permaculture-a-designers-manual
 title: Permaculture A Designers Manual
 type: literature
-author: 
+author: Mollison, Bill
 tags: [permaculture]
 created: 2026-06-22
 ---
 
-# {{title}}
+# Permaculture A Designer's Manual
 
 ## Key claims I'm thinking with
 

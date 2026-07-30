@@ -1,5 +1,5 @@
 ---
-id: The Structure of Scientific Revolutions
+id: the-structure-of-scientific-revolutions
 title: The Structure of Scientific Revolutions
 type: literature
 author: 

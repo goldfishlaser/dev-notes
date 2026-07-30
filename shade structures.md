@@ -1,5 +1,5 @@
 ---
-id: shade structures
+id: shade-structures
 title: shade structures
 type: concept
 tags: [ecology, microclimates]

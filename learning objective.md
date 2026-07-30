@@ -1,5 +1,5 @@
 ---
-id: learning objective
+id: learning-objective
 title: learning objective
 type: concept
 tags: [ISD, courseware]

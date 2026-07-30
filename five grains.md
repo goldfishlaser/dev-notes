@@ -1,5 +1,5 @@
 ---
-id: five grains
+id: five-grains
 title: five grains
 type: concept
 tags: [food]

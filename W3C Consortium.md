@@ -1,5 +1,5 @@
 ---
-id: W3C Consortium
+id: w3c-consortium
 title: W3C Consortium
 type: concept
 tags: [software development]

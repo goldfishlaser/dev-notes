@@ -1,5 +1,5 @@
 ---
-id: solar azimuth
+id: solar-azimuth
 title: solar azimuth
 type: concept
 tags: [ecology, permaculture, microclimates]

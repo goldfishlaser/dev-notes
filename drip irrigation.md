@@ -1,5 +1,5 @@
 ---
-id: drip irrigation
+id: drip-irrigation
 title: drip irrigation
 type: concept
 tags: [irrigation]

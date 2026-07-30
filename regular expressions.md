@@ -1,5 +1,5 @@
 ---
-id: regular expressions
+id: regular-expressions
 title: regular expressions
 type: concept
 tags: [CS, software]

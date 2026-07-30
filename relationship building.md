@@ -1,5 +1,5 @@
 ---
-id: relationship building
+id: relationship-building
 title: relationship building
 type: concept
 tags: [management]

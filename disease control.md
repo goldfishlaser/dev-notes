@@ -1,5 +1,5 @@
 ---
-id: disease control
+id: disease-control
 title: disease control
 type: concept
 tags: [ecology]

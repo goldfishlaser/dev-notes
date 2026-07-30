@@ -1,5 +1,5 @@
 ---
-id: CSA
+id: csa
 title: CSA
 type: concept
 tags: [agriculture, food, business]

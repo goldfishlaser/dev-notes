@@ -1,5 +1,5 @@
 ---
-id: plant propogation
+id: plant-propogation
 title: plant propogation
 type: concept
 tags: [ecology, gardening]

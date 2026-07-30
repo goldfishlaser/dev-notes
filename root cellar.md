@@ -1,5 +1,5 @@
 ---
-id: root cellar
+id: root-cellar
 title: root cellar
 type: concept
 tags: [building]

@@ -1,5 +1,5 @@
 ---
-id: network mask
+id: network-mask
 title: network mask
 type: concept
 tags: [IT]

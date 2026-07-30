@@ -1,5 +1,5 @@
 ---
-id: roller mill
+id: roller-mill
 title: roller mill
 type: concept
 tags: [fabrication]

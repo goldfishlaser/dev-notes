@@ -1,5 +1,5 @@
 ---
-id: computer aided design
+id: computer-aided-design
 title: computer aided design
 type: concept
 tags: [fabrication]

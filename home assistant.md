@@ -1,5 +1,5 @@
 ---
-id: home assistant
+id: home-assistant
 title: home assistant
 type: concept
 tags: [IT]

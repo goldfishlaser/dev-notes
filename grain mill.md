@@ -1,5 +1,5 @@
 ---
-id: grain mill
+id: grain-mill
 title: grain mill
 type: concept
 tags: [food]

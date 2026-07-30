@@ -1,5 +1,5 @@
 ---
-id: greywater system
+id: greywater-system
 title: greywater system
 type: concept
 tags: [homesteading]

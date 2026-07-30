@@ -1,5 +1,5 @@
 ---
-id: constructive feedback
+id: constructive-feedback
 title: constructive feedback
 type: concept
 tags: [management]

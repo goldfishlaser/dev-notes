@@ -1,5 +1,5 @@
 ---
-id: double entry accounting
+id: double-entry-accounting
 title: double entry accounting
 type: concept
 tags: [management, accounting]

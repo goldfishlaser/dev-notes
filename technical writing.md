@@ -1,5 +1,5 @@
 ---
-id: technical writing
+id: technical-writing
 title: technical writing
 type: concept
 tags: [docs]

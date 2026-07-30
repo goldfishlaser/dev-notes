@@ -1,5 +1,5 @@
 ---
-id: kelp harvesting
+id: kelp-harvesting
 title: kelp harvesting
 type: concept
 tags: [foraging, food]

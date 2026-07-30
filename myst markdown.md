@@ -1,5 +1,5 @@
 ---
-id: myst markdown
+id: myst-markdown
 title: myst markdown
 type: concept
 tags: [software]

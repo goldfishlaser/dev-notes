@@ -4,10 +4,10 @@ title: The Kiln Book
 type: literature
 author: 
 tags: [fabrication]
-created: 05/18/2026
+created: 2026-05-31
 ---
 
-# {{title}}
+# The Kiln Book
 
 ## Key claims I'm thinking with
 Formulas for creating ceramic

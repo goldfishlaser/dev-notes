@@ -1,5 +1,5 @@
 ---
-id: weather apis
+id: weather-apis
 title: weather apis
 type: concept
 tags: [software development, ecology, weather]

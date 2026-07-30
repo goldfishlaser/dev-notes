@@ -1,5 +1,5 @@
 ---
-id: design for disassembly
+id: design-for-disassembly
 title: design for disassembly
 type: concept
 tags: [DfODM, open-hardware, fabrication]

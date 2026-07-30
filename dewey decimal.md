@@ -1,5 +1,5 @@
 ---
-id: dewey decimal
+id: dewey-decimal
 title: dewey decimal
 type: concept
 tags: [library]

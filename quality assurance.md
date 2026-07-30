@@ -1,5 +1,5 @@
 ---
-id: quality assurance
+id: quality-assurance
 title: quality assurance
 type: concept
 tags: [management]

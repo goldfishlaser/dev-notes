@@ -1,5 +1,5 @@
 ---
-id: home economics
+id: home-economics
 title: home economics
 type: context
 tags: [management, homesteading]

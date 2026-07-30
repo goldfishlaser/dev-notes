@@ -1,5 +1,5 @@
 ---
-id: fire defense zone
+id: fire-defense-zone
 title: fire defense zone
 type: concept
 tags: [homesteading]

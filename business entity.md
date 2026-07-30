@@ -1,5 +1,5 @@
 ---
-id: business entity
+id: business-entity
 title: business entity
 type: concept
 tags: [management, business]

@@ -1,5 +1,5 @@
 ---
-id: EDM
+id: edm
 title: EDM
 type: concept
 tags: [fabrication]

@@ -1,5 +1,5 @@
 ---
-id: Practical Doomsday
+id: practical-doomsday
 title: Practical Doomsday
 type: literature
 author: 
@@ -7,7 +7,7 @@ tags: [risk, management]
 created: 2026-06-22
 ---
 
-# {{title}}
+# Practical Doomsday
 
 ## Key claims I'm thinking with
 - risk

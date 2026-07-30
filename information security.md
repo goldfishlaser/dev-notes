@@ -1,5 +1,5 @@
 ---
-id: information security
+id: information-security
 title: information security
 type: concept
 tags: [IT, security]

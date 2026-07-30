@@ -1,5 +1,5 @@
 ---
-id: DOF
+id: dof
 title: DOF
 type: context
 tags: [open-hardware, fabrication]

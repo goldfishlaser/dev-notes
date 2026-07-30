@@ -1,5 +1,5 @@
 ---
-id: six sigma
+id: six-sigma
 title: six sigma
 type: concept
 tags: [management, fabrication]

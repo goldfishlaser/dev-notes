@@ -1,5 +1,5 @@
 ---
-id: Cob 
+id: cob 
 title: Cob 
 type: concept
 tags: [building]

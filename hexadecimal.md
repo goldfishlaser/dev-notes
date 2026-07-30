@@ -2,7 +2,7 @@
 id: hexadecimal
 title: hexadecimal
 type: concept
-tags: []
+tags: [CS]
 created: 2026-06-22
 ---
 

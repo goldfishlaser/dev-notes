@@ -2,7 +2,7 @@
 id: spec driven development
 title: spec driven development
 type: concept
-tags: []
+tags: [software development, management]
 created: 2026-06-22
 ---
 

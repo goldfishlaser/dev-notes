@@ -2,7 +2,7 @@
 id: hugelkultur
 title: hugelkultur
 type: concept
-tags: []
+tags: [food, homesteading]
 created: 2026-06-22
 ---
 

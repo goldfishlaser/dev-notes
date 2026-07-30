@@ -2,7 +2,7 @@
 id: dewey decimal
 title: dewey decimal
 type: concept
-tags: []
+tags: [library]
 created: 2026-06-22
 ---
 

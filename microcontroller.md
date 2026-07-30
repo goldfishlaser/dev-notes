@@ -2,7 +2,7 @@
 id: microcontroller
 title: microcontroller
 type: concept
-tags: []
+tags: [engineering]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: wu-wei
 title: Wu Wei
 type: concept
-tags: [taoism, development, practice]
+tags: [taoism, development, practice, spirituality]
 created: 2026-05-31
 layout: page
 ---

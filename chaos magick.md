@@ -2,7 +2,7 @@
 id: chaos magick
 title: chaos magick
 type: concept
-tags: [magic, religion]
+tags: [magic, spirituality]
 created: 2026-06-22
 ---
 

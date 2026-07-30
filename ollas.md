@@ -2,7 +2,7 @@
 id: ollas
 title: ollas
 type: concept
-tags: []
+tags: [irrigation]
 created: 2026-07-30
 ---
 

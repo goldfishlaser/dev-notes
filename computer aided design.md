@@ -2,7 +2,7 @@
 id: computer aided design
 title: computer aided design
 type: concept
-tags: []
+tags: [fabrication]
 created: 2026-06-22
 ---
 

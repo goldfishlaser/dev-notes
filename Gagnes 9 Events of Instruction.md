@@ -2,7 +2,7 @@
 id: Gagnes 9 Events of Instruction
 title: Gagnes 9 Events of Instruction
 type: concept
-tags: []
+tags: [courseware, ISD]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: FAIR
 title: FAIR
 type: concept
-tags: []
+tags: [management, accessibility]
 created: 2026-06-22
 ---
 

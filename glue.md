@@ -2,7 +2,7 @@
 id: glue
 title: glue
 type: concept
-tags: []
+tags: [materials, fabrication]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: assembly
 title: assembly
 type: concept
-tags: [computer-science, programming]
+tags: [CS, programming]
 created: 2026-06-22
 ---
 

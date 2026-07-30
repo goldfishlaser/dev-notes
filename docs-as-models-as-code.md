@@ -2,7 +2,7 @@
 id: docs-as-models-as-code
 title: docs-as-models-as-code
 type: concept
-tags: [open-hardware]
+tags: [open-hardware, software]
 created: 2026-06-22
 ---
 

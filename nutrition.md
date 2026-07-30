@@ -2,7 +2,7 @@
 id: nutrition
 title: nutrition
 type: context
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 

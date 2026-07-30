@@ -2,7 +2,7 @@
 id: Casting
 title: Casting
 type: context
-tags: [manufacturing]
+tags: [fabrication]
 created: 2026-06-22
 ---
 

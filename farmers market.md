@@ -2,7 +2,7 @@
 id: farmers market
 title: farmers market
 type: concept
-tags: []
+tags: [business]
 created: 2026-06-22
 ---
 

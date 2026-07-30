@@ -2,7 +2,7 @@
 id: roller mill
 title: roller mill
 type: concept
-tags: []
+tags: [fabrication]
 created: 2026-06-22
 ---
 

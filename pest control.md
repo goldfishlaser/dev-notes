@@ -2,7 +2,7 @@
 id: pest control
 title: pest control
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 
@@ -12,3 +12,7 @@ created: 2026-06-22
 
 
 ## Links
+[[disease control]]
+
+
+[disease control]: <disease control> "disease control"

@@ -2,7 +2,7 @@
 id: grain mill
 title: grain mill
 type: concept
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 
@@ -12,3 +12,7 @@ created: 2026-06-22
 
 
 ## Links
+[[wheat]]
+
+
+[wheat]: wheat "wheat"

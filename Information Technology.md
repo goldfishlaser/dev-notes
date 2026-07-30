@@ -2,7 +2,7 @@
 id: Information Technology
 title: Information Technology
 type: concept
-tags: []
+tags: [IT]
 created: 2026-06-22
 ---
 

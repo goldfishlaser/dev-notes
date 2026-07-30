@@ -2,7 +2,7 @@
 id: seasons
 title: seasons
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 

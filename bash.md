@@ -2,7 +2,7 @@
 id: bash
 title: bash
 type: concept
-tags: [software development, IT]
+tags: [software, IT]
 created: 2026-06-22
 ---
 

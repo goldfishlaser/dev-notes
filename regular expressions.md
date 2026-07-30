@@ -2,7 +2,7 @@
 id: regular expressions
 title: regular expressions
 type: concept
-tags: []
+tags: [CS, software]
 created: 2026-06-22
 ---
 

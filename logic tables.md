@@ -2,7 +2,7 @@
 id: logic tables
 title: logic tables
 type: concept
-tags: []
+tags: [CS, fabrication]
 created: 2026-06-22
 ---
 

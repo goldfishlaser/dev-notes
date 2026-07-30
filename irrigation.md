@@ -2,7 +2,7 @@
 id: irrigation
 title: irrigation
 type: concept
-tags: []
+tags: [ecology, irrigation]
 created: 2026-06-22
 ---
 
@@ -16,6 +16,11 @@ Irrigation is a targeted approach to get water to where it is needed.
 [[swales]]
 [[demilunes]]
 [[drip irrigation]]
-
+[[chinampas]]
 
 [ollas]: ollas "ollas"
+
+[swales]: swales "swales"
+[demilunes]: demilunes "demilunes"
+[drip irrigation]: <drip irrigation> "drip irrigation"
+[chinampas]: chinampas "chinampas"

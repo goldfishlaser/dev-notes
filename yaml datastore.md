@@ -2,7 +2,7 @@
 id: yaml datastore
 title: yaml datastore
 type: concept
-tags: []
+tags: [software development]
 created: 2026-06-22
 ---
 

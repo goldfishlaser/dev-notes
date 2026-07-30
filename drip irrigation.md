@@ -2,7 +2,7 @@
 id: drip irrigation
 title: drip irrigation
 type: concept
-tags: []
+tags: [irrigation]
 created: 2026-07-30
 ---
 
@@ -12,3 +12,7 @@ created: 2026-07-30
 
 
 ## Links
+[[irrigation]]
+
+
+[irrigation]: irrigation "irrigation"

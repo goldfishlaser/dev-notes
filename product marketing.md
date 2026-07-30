@@ -2,7 +2,7 @@
 id: product marketing
 title: product marketing
 type: concept
-tags: []
+tags: [management, business]
 created: 2026-06-22
 ---
 

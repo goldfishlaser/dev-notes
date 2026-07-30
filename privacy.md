@@ -2,7 +2,7 @@
 id: privacy
 title: privacy
 type: concept
-tags: []
+tags: [social-ecology]
 created: 2026-06-22
 ---
 

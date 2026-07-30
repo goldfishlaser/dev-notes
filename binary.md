@@ -2,7 +2,7 @@
 id: binary
 title: binary
 type: concept
-tags: [software development]
+tags: [software, CS]
 created: 2026-06-22
 ---
 

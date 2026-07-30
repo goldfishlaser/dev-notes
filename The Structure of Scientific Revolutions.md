@@ -3,7 +3,7 @@ id: The Structure of Scientific Revolutions
 title: The Structure of Scientific Revolutions
 type: literature
 author: 
-tags: []
+tags: [science, policy]
 created: 2026-06-22
 ---
 

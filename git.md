@@ -1,12 +1,12 @@
 ---
-id: {{slug}}
-title: {{title}}
+id: git
+title: Git
 type: practice
-tags: []
-created: {{date}}
+tags: [software]
+created: 2026-06-22
 ---
 
-# {{title}}
+# Git
 
 ## What we do
 

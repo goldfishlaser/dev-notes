@@ -2,7 +2,7 @@
 id: johnson-su
 title: johnson-su
 type: concept
-tags: []
+tags: [homesteading]
 created: 2026-06-22
 ---
 
@@ -21,3 +21,7 @@ Benefits of composting method:
 
 ## Links
 https://regenerationinternational.org/bioreactor/
+[[circular production]]
+
+
+[circular production]: <circular production> "circular production"

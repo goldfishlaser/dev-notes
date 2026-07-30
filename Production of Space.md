@@ -3,7 +3,7 @@ id: Production of Space
 title: Production of Space
 type: literature
 author: 
-tags: []
+tags: [social-ecology, design]
 created: 2026-06-22
 ---
 

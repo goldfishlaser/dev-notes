@@ -2,7 +2,7 @@
 id: typescript
 title: typescript
 type: concept
-tags: []
+tags: [software development]
 created: 2026-06-22
 ---
 

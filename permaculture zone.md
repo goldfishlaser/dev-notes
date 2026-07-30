@@ -2,7 +2,7 @@
 id: permaculture zone
 title: permaculture zone
 type: concept
-tags: []
+tags: [permaculture]
 created: 2026-06-23
 ---
 

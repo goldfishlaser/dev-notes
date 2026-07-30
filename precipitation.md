@@ -2,7 +2,7 @@
 id: precipitation
 title: precipitation
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 

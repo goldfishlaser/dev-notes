@@ -2,7 +2,7 @@
 id: Fediverse
 title: Fediverse
 type: concept
-tags: []
+tags: [IT, media]
 created: 2026-07-30
 ---
 

@@ -2,7 +2,7 @@
 id: root cellar
 title: root cellar
 type: concept
-tags: []
+tags: [building]
 created: 2026-06-23
 ---
 

@@ -3,7 +3,7 @@ id: tao-te-ching
 title: Tao Te Ching
 type: literature
 author: Laozi
-tags: [taoism]
+tags: [taoism, spirituality]
 created: 2026-05-31
 layout: page
 ---

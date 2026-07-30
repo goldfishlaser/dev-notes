@@ -2,7 +2,7 @@
 id: weather apis
 title: weather apis
 type: concept
-tags: []
+tags: [software development, ecology, weather]
 created: 2026-06-22
 ---
 

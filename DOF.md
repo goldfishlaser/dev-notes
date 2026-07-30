@@ -2,7 +2,7 @@
 id: DOF
 title: DOF
 type: context
-tags: [open hardware]
+tags: [open-hardware, fabrication]
 created: 2026-06-22
 ---
 

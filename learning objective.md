@@ -2,7 +2,7 @@
 id: learning objective
 title: learning objective
 type: concept
-tags: []
+tags: [ISD, courseware]
 created: 2026-06-22
 ---
 

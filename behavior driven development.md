@@ -2,7 +2,7 @@
 id: behavior driven development
 title: behavior driven development
 type: concept
-tags: [software development]
+tags: [software, management]
 created: 2026-06-22
 ---
 

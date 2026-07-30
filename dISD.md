@@ -2,7 +2,7 @@
 id: dISD
 title: dISD
 type: concept
-tags: []
+tags: [management, courseware]
 created: 2026-07-30
 ---
 

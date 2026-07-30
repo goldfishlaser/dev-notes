@@ -2,7 +2,7 @@
 id: CSA
 title: CSA
 type: concept
-tags: []
+tags: [agriculture, food, business]
 created: 2026-06-22
 ---
 
@@ -12,3 +12,7 @@ created: 2026-06-22
 
 
 ## Links
+[[farmers market]]
+
+
+[farmers market]: <farmers market> "farmers market"

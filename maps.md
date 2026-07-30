@@ -2,7 +2,7 @@
 id: maps
 title: maps
 type: concept
-tags: []
+tags: [homesteading, tools]
 created: 2026-06-22
 ---
 

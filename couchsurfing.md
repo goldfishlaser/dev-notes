@@ -2,7 +2,7 @@
 id: couchsurfing
 title: couchsurfing
 type: concept
-tags: [hospitality, housing, social ecology]
+tags: [hospitality, housing, social-ecology]
 created: 2026-07-30
 ---
 

@@ -2,7 +2,7 @@
 id: quality assurance
 title: quality assurance
 type: concept
-tags: []
+tags: [management]
 created: 2026-06-22
 ---
 

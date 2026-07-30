@@ -2,7 +2,7 @@
 id: shade structures
 title: shade structures
 type: concept
-tags: []
+tags: [ecology, microclimates]
 created: 2026-06-22
 ---
 

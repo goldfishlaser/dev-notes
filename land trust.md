@@ -2,7 +2,7 @@
 id: land trust
 title: land trust
 type: concept
-tags: []
+tags: [policy]
 created: 2026-06-22
 ---
 

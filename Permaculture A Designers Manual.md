@@ -3,7 +3,7 @@ id: Permaculture A Designers Manual
 title: Permaculture A Designers Manual
 type: literature
 author: 
-tags: []
+tags: [permaculture]
 created: 2026-06-22
 ---
 

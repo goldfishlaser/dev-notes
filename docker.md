@@ -2,7 +2,7 @@
 id: docker
 title: docker
 type: concept
-tags: []
+tags: [software, IT]
 created: 2026-06-22
 ---
 

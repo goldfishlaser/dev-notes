@@ -2,7 +2,7 @@
 id: myst markdown
 title: myst markdown
 type: concept
-tags: []
+tags: [software]
 created: 2026-06-22
 ---
 

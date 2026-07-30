@@ -2,7 +2,7 @@
 id: open source
 title: open source
 type: concept
-tags: []
+tags: [CS, programming, software]
 created: 2026-06-22
 ---
 

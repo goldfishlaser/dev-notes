@@ -2,7 +2,7 @@
 id: EDM
 title: EDM
 type: concept
-tags: []
+tags: [fabrication]
 created: 2026-06-22
 ---
 

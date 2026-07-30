@@ -2,7 +2,7 @@
 id: ansible
 title: ansible
 type: concept
-tags: [IT, programming]
+tags: [IT, software]
 created: 2026-06-22
 ---
 

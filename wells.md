@@ -2,7 +2,7 @@
 id: wells
 title: wells
 type: concept
-tags: []
+tags: [homesteading]
 created: 2026-06-22
 ---
 

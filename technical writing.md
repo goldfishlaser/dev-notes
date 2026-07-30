@@ -2,7 +2,7 @@
 id: technical writing
 title: technical writing
 type: concept
-tags: []
+tags: [docs]
 created: 2026-06-22
 ---
 

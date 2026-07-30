@@ -2,7 +2,7 @@
 id: vector graphics
 title: vector graphics
 type: concept
-tags: []
+tags: [software development, graphics]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: plaster
 title: plaster
 type: concept
-tags: []
+tags: [building]
 created: 2026-06-22
 ---
 

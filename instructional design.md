@@ -2,7 +2,7 @@
 id: instructional design
 title: instructional design
 type: concept
-tags: []
+tags: [management]
 created: 2026-06-22
 ---
 

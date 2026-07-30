@@ -2,7 +2,7 @@
 id: macronutrients
 title: macronutrients
 type: concept
-tags: []
+tags: [food, nutrition]
 created: 2026-06-22
 ---
 

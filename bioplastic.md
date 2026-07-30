@@ -2,7 +2,7 @@
 id: bioplastic
 title: bioplastic
 type: concept
-tags: [fabrication]
+tags: [fabrication, materials]
 created: 2026-06-22
 ---
 

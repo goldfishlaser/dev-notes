@@ -2,7 +2,7 @@
 id: Continuous Integration
 title: Continuous Integration
 type: concept
-tags: []
+tags: [software]
 created: 2026-07-30
 ---
 

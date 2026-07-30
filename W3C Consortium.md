@@ -2,7 +2,7 @@
 id: W3C Consortium
 title: W3C Consortium
 type: concept
-tags: []
+tags: [software development]
 created: 2026-07-30
 ---
 

@@ -2,7 +2,7 @@
 id: roadmap
 title: roadmap
 type: concept
-tags: []
+tags: [software, fabrication, management]
 created: 2026-06-22
 ---
 

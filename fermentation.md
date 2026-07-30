@@ -2,7 +2,7 @@
 id: fermentation
 title: fermentation
 type: context
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 

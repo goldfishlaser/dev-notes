@@ -2,7 +2,7 @@
 id: wheat
 title: wheat
 type: concept
-tags: []
+tags: [agriculture, food]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: metabolism
 title: metabolism
 type: concept
-tags: []
+tags: [nutrition]
 created: 2026-06-22
 ---
 

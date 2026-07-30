@@ -2,7 +2,7 @@
 id: five grains
 title: five grains
 type: concept
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 

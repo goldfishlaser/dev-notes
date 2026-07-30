@@ -2,7 +2,7 @@
 id: windbreaks
 title: windbreaks
 type: concept
-tags: [ecology, permaculture]
+tags: [ecology]
 created: 2026-06-23
 ---
 
@@ -30,3 +30,7 @@ New Mexico Locust (Robinia neomexicana)
 Adds fertility while slowing the wind.
 
 ## Links
+[[Guilds]]
+
+
+[Guilds]: Guilds "Guilds"

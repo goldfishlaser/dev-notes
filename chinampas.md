@@ -2,7 +2,7 @@
 id: chinampas
 title: chinampas
 type: concept
-tags: []
+tags: [irrigation]
 created: 2026-06-22
 ---
 

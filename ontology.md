@@ -2,7 +2,7 @@
 id: ontology
 title: ontology
 type: concept
-tags: []
+tags: [CS]
 created: 2026-06-22
 ---
 

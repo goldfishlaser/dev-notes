@@ -2,7 +2,7 @@
 id: vegetables
 title: vegetables
 type: concept
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 

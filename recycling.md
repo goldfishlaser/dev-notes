@@ -2,7 +2,7 @@
 id: recycling
 title: recycling
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 
@@ -13,3 +13,9 @@ created: 2026-06-22
 
 ## Links
 [[Kamikatsu]]
+[[circular production]]
+
+
+[Kamikatsu]: Kamikatsu "Kamikatsu"
+
+[circular production]: <circular production> "circular production"

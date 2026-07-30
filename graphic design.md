@@ -2,7 +2,7 @@
 id: graphic design
 title: graphic design
 type: concept
-tags: []
+tags: [media]
 created: 2026-06-22
 ---
 

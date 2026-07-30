@@ -2,7 +2,7 @@
 id: fire defense zone
 title: fire defense zone
 type: concept
-tags: []
+tags: [homesteading]
 created: 2026-06-22
 ---
 

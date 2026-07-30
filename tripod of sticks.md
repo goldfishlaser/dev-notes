@@ -2,7 +2,7 @@
 id: tripod of sticks
 title: tripod of sticks
 type: concept
-tags: []
+tags: [natural building]
 created: 2026-06-22
 ---
 

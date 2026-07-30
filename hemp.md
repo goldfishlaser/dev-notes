@@ -2,7 +2,7 @@
 id: hemp
 title: hemp
 type: concept
-tags: []
+tags: [fabrication, food]
 created: 2026-06-22
 ---
 

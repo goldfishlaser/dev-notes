@@ -2,7 +2,7 @@
 id: dfodm
 title: DfODM
 type: context
-tags: [open-hardware, design, OET]
+tags: [open-hardware, design, OET, management]
 created: 2026-05-31
 layout: page
 ---
@@ -22,3 +22,5 @@ distributed communities without dependence on specialized infrastructure.
 
 
 [design-for-common-tools]: design-for-common-tools "Design for Common Tools"
+
+[OET]: OET "OET"

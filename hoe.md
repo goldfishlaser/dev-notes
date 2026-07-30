@@ -2,7 +2,7 @@
 id: hoe
 title: hoe
 type: concept
-tags: []
+tags: [tools]
 created: 2026-06-22
 ---
 

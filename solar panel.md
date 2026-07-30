@@ -2,7 +2,7 @@
 id: solar panel
 title: solar panel
 type: concept
-tags: []
+tags: [renewable-energy]
 created: 2026-06-22
 ---
 

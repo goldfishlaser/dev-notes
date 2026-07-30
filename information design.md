@@ -2,7 +2,7 @@
 id: information design
 title: information design
 type: concept
-tags: []
+tags: [management, docs]
 created: 2026-06-22
 ---
 

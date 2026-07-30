@@ -2,7 +2,7 @@
 id: python
 title: python
 type: concept
-tags: []
+tags: [software, programming]
 created: 2026-06-22
 ---
 

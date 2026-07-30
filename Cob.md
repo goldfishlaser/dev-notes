@@ -2,7 +2,7 @@
 id: Cob 
 title: Cob 
 type: concept
-tags: [natural building]
+tags: [building]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: kelp harvesting
 title: kelp harvesting
 type: concept
-tags: [foraging]
+tags: [foraging, food]
 created: 2026-06-22
 ---
 

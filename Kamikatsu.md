@@ -2,7 +2,7 @@
 id: Kamikatsu
 title: Kamikatsu
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 
@@ -25,3 +25,8 @@ Note that food waste is not collected at the center; residents are expected to c
 
 ## Links
 [[recycling]]
+[[circular production]]
+
+
+[recycling]: recycling "recycling"
+[circular production]: <circular production> "circular production"

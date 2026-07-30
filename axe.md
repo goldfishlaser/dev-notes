@@ -2,7 +2,7 @@
 id: axe
 title: axe
 type: concept
-tags: [fabrication]
+tags: [tools, fabrication]
 created: 2026-06-22
 ---
 

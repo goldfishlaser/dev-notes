@@ -2,7 +2,7 @@
 id: cotton
 title: cotton
 type: concept
-tags: []
+tags: [homesteading]
 created: 2026-06-22
 ---
 

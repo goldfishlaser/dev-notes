@@ -2,7 +2,7 @@
 id: signals
 title: signals
 type: concept
-tags: []
+tags: [design, fabrication]
 created: 2026-06-22
 ---
 

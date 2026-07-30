@@ -2,7 +2,7 @@
 id: millet
 title: millet
 type: concept
-tags: []
+tags: [food]
 created: 2026-06-22
 ---
 

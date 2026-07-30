@@ -2,7 +2,7 @@
 id: reticulum
 title: reticulum
 type: concept
-tags: []
+tags: [IT]
 created: 2026-06-22
 ---
 

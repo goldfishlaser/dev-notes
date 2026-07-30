@@ -2,7 +2,7 @@
 id: security
 title: security
 type: context
-tags: []
+tags: [IT, risk, management]
 created: 2026-06-22
 ---
 

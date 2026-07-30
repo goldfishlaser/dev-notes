@@ -2,7 +2,7 @@
 id: Natural Building
 title: Natural Building
 type: context
-tags: []
+tags: [homesteading, housing]
 created: 2026-06-22
 ---
 
@@ -24,3 +24,5 @@ created: 2026-06-22
 
 
 [Plaster]: plaster "plaster"
+
+[Cob]: Cob "Cob"

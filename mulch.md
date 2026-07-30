@@ -2,7 +2,7 @@
 id: mulch
 title: mulch
 type: concept
-tags: []
+tags: [homesteading, ecology]
 created: 2026-06-22
 ---
 

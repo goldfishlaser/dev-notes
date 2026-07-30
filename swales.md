@@ -2,7 +2,7 @@
 id: swales
 title: swales
 type: concept
-tags: []
+tags: [irrigation]
 created: 2026-07-30
 ---
 

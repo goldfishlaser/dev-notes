@@ -2,7 +2,7 @@
 id: soil science
 title: soil science
 type: concept
-tags: []
+tags: [ecology]
 created: 2026-06-22
 ---
 

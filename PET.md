@@ -2,7 +2,7 @@
 id: PET
 title: PET
 type: concept
-tags: []
+tags: [materials]
 created: 2026-06-22
 ---
 

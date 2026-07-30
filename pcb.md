@@ -2,7 +2,7 @@
 id: pcb
 title: pcb
 type: concept
-tags: []
+tags: [fabrication, materials]
 created: 2026-06-22
 ---
 

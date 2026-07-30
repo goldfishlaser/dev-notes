@@ -2,7 +2,7 @@
 id: OSI
 title: OSI
 type: concept
-tags: []
+tags: [IT]
 created: 2026-06-22
 ---
 

@@ -2,7 +2,7 @@
 id: Social Ecology
 title: Social Ecology
 type: concept
-tags: []
+tags: [social-ecology]
 created: 2026-07-30
 ---
 

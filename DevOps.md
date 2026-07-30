@@ -2,7 +2,7 @@
 id: DevOps
 title: DevOps
 type: concept
-tags: []
+tags: [IT, software]
 created: 2026-07-30
 ---
 
@@ -17,3 +17,5 @@ DevOps are practices and tools that automate and integrate the processes between
 There are more, but I am mostly interested in CI/CD so far. 
 
 ## Links
+
+[Continuous Integration]: <Continuous Integration> "Continuous Integration"

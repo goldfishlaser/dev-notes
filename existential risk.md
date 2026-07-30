@@ -2,7 +2,7 @@
 id: existential risk
 title: existential risk
 type: concept
-tags: [ecology]
+tags: [ecology, risk]
 created: 2026-06-22
 ---
 

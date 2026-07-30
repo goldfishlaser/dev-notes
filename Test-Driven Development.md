@@ -2,7 +2,7 @@
 id: Test-Driven Development
 title: Test-Driven Development
 type: concept
-tags: []
+tags: [software development, management]
 created: 2026-07-30
 ---
 

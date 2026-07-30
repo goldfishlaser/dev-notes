@@ -2,7 +2,7 @@
 id: Permaculture
 title: Permaculture
 type: concept
-tags: []
+tags: [permaculture, ecology]
 created: 2026-07-30
 ---
 

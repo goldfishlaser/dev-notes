@@ -2,7 +2,7 @@
 id: ADDIE
 title: ADDIE
 type: concept
-tags: [instructional design, courseware]
+tags: [ISD, courseware, management]
 created: 2026-06-22
 ---
 
@@ -19,3 +19,6 @@ Evaluation: Assessing the effectiveness of the training, gathering learner feedb
 ## Links
 [[ISD from the Ground Up]]
 [[dISD]]
+
+
+[dISD]: dISD "dISD"

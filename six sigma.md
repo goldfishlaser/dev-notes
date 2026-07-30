@@ -2,7 +2,7 @@
 id: six sigma
 title: six sigma
 type: concept
-tags: []
+tags: [management, fabrication]
 created: 2026-06-22
 ---
 

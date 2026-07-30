@@ -9,6 +9,8 @@ created: 2026-06-22
 # computer aided design
 
 ## Core idea
-
+OpenSCAD
+FreeCAD
+KiCAD
 
 ## Links

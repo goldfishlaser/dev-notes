@@ -2,7 +2,7 @@
 id: solar azimuth
 title: solar azimuth
 type: concept
-tags: []
+tags: [ecology, permaculture, microclimates]
 created: 2026-06-23
 ---
 
@@ -10,6 +10,7 @@ created: 2026-06-23
 
 ## Core idea
 the compass direction of the sun relative to true or magnetic north, measured in degrees (0° - 360°) clockwise. It changes throughout the day based on your location, the season, and the time. 
+the sunrise azimuth, the sunset azimuth, and the solar noon altitude are used to get the arc of the sun. 
 
 ## Links
 https://gml.noaa.gov/grad/solcalc/azel.html

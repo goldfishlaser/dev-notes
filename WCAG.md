@@ -13,3 +13,7 @@ Web Content Accessibility Guidelines. The World Wide Web Consortium (W3C) develo
 
 ## Links
 https://www.w3.org/WAI/standards-guidelines/
+[[W3C Consortium]]
+
+
+[W3C Consortium]: <W3C Consortium> "W3C Consortium"

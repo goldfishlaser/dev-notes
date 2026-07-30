@@ -13,7 +13,7 @@ layout: page
 - Going with the flow
 - Effectiveness through non-resistance
 - Advantage from eliminating unneccesary actions
-- Essentially, develop based on what you have at hand, that solves your problem using the least energy - not overengineering, working with existing open solutions, less lines of code mean less problems
+- Essentially, develop based on what you have at hand, that solves your problem using the least energy - not overengineering, working with existing open solutions, less lines of code, less technology in development, mean less problems
 
 ## Links
 [[tao-te-ching]]

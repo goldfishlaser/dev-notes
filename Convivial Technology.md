@@ -1,3 +1,4 @@
+# Convivial Technology
 ---
 id: convivial-technology
 title: Convivial Technology
@@ -25,3 +26,4 @@ layout: page
 
 
 [convivial-tools]: convivial-tools "Convivial Tools"
+

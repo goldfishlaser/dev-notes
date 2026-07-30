@@ -3,7 +3,6 @@ layout: home
 title: Dev Notes
 ---
 
-
 <div id="tag-explorer">
   <div class="te-controls">
     <input type="text" id="te-search" placeholder="Search notes by title…" autocomplete="off">
@@ -13,13 +12,20 @@ title: Dev Notes
     </div>
     <button type="button" id="te-clear" class="te-clear-btn">Clear</button>
   </div>
+
   <div id="te-cloud" class="te-cloud" aria-label="Tag cloud"></div>
+
   <div id="te-count" class="te-count"></div>
   <ul id="te-results" class="te-results"></ul>
 </div>
+
 <script type="application/json" id="te-data">
 [
-{% assign notes = site.pages | where_exp: "p", "p.type == 'concept' or p.type == 'context' or p.type == 'literature' or p.type == 'practice'" %}
+{% assign concepts = site.pages | where: "type", "concept" %}
+{% assign contexts = site.pages | where: "type", "context" %}
+{% assign literature = site.pages | where: "type", "literature" %}
+{% assign practices = site.pages | where: "type", "practice" %}
+{% assign notes = concepts | concat: contexts | concat: literature | concat: practices %}
 {% assign notes = notes | sort: "title" %}
 {% for note in notes %}  {
     "title": {{ note.title | default: note.name | jsonify }},
@@ -29,30 +35,5 @@ title: Dev Notes
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}]
 </script>
- 
+
 <script src="{{ site.baseurl }}/assets/js/tag-explorer.js"></script>
- 
-
-## Concepts
-{% assign concepts = site.pages | where: "type", "concept" %}
-{% for note in concepts %}
-- [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
-{% endfor %}
-
-## Contexts
-{% assign contexts = site.pages | where: "type", "context" %}
-{% for note in contexts %}
-- [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
-{% endfor %}
-
-## Literature
-{% assign lit = site.pages | where: "type", "literature" %}
-{% for note in lit %}
-- [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
-{% endfor %}
-
-## Practices
-{% assign practices = site.pages | where: "type", "practice" %}
-{% for note in practices %}
-- [{{ note.title | default: note.name }}]({{ site.baseurl }}{{ note.url }})
-{% endfor %}

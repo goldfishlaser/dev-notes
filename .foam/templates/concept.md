@@ -1,5 +1,5 @@
 ---
-id: ${TM_FILENAME_BASE}
+id: ${TM_FILENAME_BASE/([A-Z])|([ _]+)/${1:/downcase}${2:+-}/g}
 title: ${TM_FILENAME_BASE}
 type: concept
 tags: []

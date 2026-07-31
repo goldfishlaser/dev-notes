@@ -2,7 +2,7 @@
 id: my-diet
 title: my diet
 type: concept
-tags: [nurition, food]
+tags: [nutrition, food]
 created: 2026-06-22
 ---
 

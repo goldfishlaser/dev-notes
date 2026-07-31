@@ -3,7 +3,7 @@ id: anarchists-tool-chest
 title: Anarchists Tool Chest
 type: literature
 author: Schwarz, Christopher
-tags: [woodworking, tools]
+tags: [woodworking, tools, literature]
 created: 05/18/2025
 ---
 

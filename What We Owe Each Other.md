@@ -3,7 +3,7 @@ id: what-we-owe-to-each-other
 title: What We Owe Each Other
 type: literature
 author: Scanlon
-tags: [social-ecology, ethics]
+tags: [social-ecology, ethics, literature]
 created: 2026-06-22
 ---
 

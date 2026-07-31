@@ -3,7 +3,7 @@ id: the-vegan-book-of-permaculture
 title: The Vegan Book of Permaculture
 type: literature
 author: 
-tags: [vegan, permaculture]
+tags: [vegan, permaculture, literature]
 created: 2026-06-22
 ---
 

@@ -3,7 +3,7 @@ id: practical-doomsday
 title: Practical Doomsday
 type: literature
 author: 
-tags: [risk, management]
+tags: [risk, management, literature]
 created: 2026-06-22
 ---
 

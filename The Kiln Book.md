@@ -3,7 +3,7 @@ id: the-kiln-book
 title: The Kiln Book
 type: literature
 author: 
-tags: [fabrication]
+tags: [fabrication, literature]
 created: 2026-05-31
 ---
 

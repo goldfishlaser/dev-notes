@@ -3,7 +3,7 @@ id: barefoot-doctors
 title: Barefoot Doctors
 type: literature
 author: 
-tags: [medical]
+tags: [medical, literature]
 created: 2026-07-30
 ---
 

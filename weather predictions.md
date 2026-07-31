@@ -2,7 +2,7 @@
 id: weather-predictions
 title: weather predictions
 type: concept
-tags: [ecoogy, weather]
+tags: [ecology, weather]
 created: 2026-06-22
 ---
 

@@ -6,7 +6,7 @@ tags: [projects]
 created: 2026-06-22
 ---
 
-# {{title}}
+# OET
 
 ## What this is
 Open Ecological Technology is a multidisciplinary field of design practice and philosophy curated by Melanie Allen (goldfishlaser) in response to today's social and environmental ecological challenges.
@@ -17,7 +17,7 @@ Open Ecological Technology is a multidisciplinary field of design practice and p
 [[DOF]]
 [[decentralized manufacturing]]
 [[Permaculture]]
-
+[[OSHW]]
 
 ## Related
 
@@ -28,3 +28,5 @@ Open Ecological Technology is a multidisciplinary field of design practice and p
 
 
 [Permaculture]: Permaculture "Permaculture"
+
+[OSHW]: OSHW "OSHW"

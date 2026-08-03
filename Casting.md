@@ -6,7 +6,7 @@ tags: [fabrication]
 created: 2026-06-22
 ---
 
-# {{title}}
+# Casting
 
 ## What this is
  Manufacturing process where liquid material is poured into a hollow mold and allowed to solidify.

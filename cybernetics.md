@@ -2,7 +2,7 @@
 id: cybernetics
 title: cybernetics
 type: concept
-tags: []
+tags: [cybernetics]
 created: 2026-08-03
 ---
 

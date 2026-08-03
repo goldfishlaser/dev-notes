@@ -2,7 +2,7 @@
 id: foraging
 title: foraging
 type: concept
-tags: [food]
+tags: [food, homec]
 created: 2026-06-22
 ---
 

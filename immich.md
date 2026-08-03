@@ -9,6 +9,7 @@ created: 2026-06-22
 # immich
 
 ## Core idea
-Self-hosting of photos
+Self-hosting of photos and video
 
 ## Links
+https://immich.app/

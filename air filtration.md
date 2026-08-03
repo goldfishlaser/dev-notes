@@ -2,7 +2,7 @@
 id: air-filtration
 title: air filtration
 type: concept
-tags: [ecology, homesteading]
+tags: [ecology, homesteading, homec]
 created: 2026-06-22
 ---
 

@@ -22,6 +22,7 @@ Benefits of composting method:
 ## Links
 https://regenerationinternational.org/bioreactor/
 [[circular production]]
+[[composting]]
 
 
 [circular production]: <circular production> "circular production"

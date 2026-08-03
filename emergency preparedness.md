@@ -2,7 +2,7 @@
 id: emergency-preparedness
 title: emergency preparedness
 type: context
-tags: [risk, management]
+tags: [risk, management, homec]
 created: 2026-06-22
 ---
 

@@ -10,5 +10,4 @@ created: 2026-07-30
 
 ## Core idea
 
-
 ## Links

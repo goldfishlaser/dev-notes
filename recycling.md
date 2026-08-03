@@ -14,6 +14,7 @@ created: 2026-06-22
 ## Links
 [[Kamikatsu]]
 [[circular production]]
+[[plastic recycling]]
 
 
 [Kamikatsu]: Kamikatsu "Kamikatsu"

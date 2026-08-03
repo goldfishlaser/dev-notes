@@ -26,7 +26,10 @@ Note that food waste is not collected at the center; residents are expected to c
 ## Links
 [[recycling]]
 [[circular production]]
-
+[[plastic recycling]]
 
 [recycling]: recycling "recycling"
 [circular production]: <circular production> "circular production"
+
+
+[plastic recycling]: <plastic recycling> "plastic recycling"

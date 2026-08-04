@@ -10,13 +10,15 @@ created: 2026-06-22
 
 Git was invented by Linus Torvalds and maintained primarily by Junio Hamano. This technology is the powerhouse behind the success of open source software, providing the tools needed for decentralized development, such as version control, diffing, and more.
 
-[[DOF]] is a project to create technologies to extend the capabilities of Git to [[open source]] hardware. 
+[[YAML Datastore]] is a project by the [[DOF Initiative]] to create technologies to extend the capabilities of Git to [[open source]] hardware. 
 
 ## Links
 https://git-scm.com/cheat-sheet 
 https://learngitbranching.js.org/
 
 
-[DOF]: DOF "DOF"
+
 
 [open source]: <open source> "open source"
+
+[YAML Datastore]: <yaml datastore> "yaml datastore"

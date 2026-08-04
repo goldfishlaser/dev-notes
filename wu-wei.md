@@ -17,6 +17,7 @@ layout: page
 
 ## Links
 [[tao-te-ching]]
+Principle 9 of [[Permaculture Principles and Pathways Beyond Sustainability]]
 
 
 [tao-te-ching]: tao-te-ching "Tao Te Ching"

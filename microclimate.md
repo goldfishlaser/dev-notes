@@ -11,7 +11,6 @@ created: 2026-08-03
 ## Core idea
 Local variation in climate due to relative location of shade, heat sinks, bodies of water, etc. 
 
-https://mnallen.net/microclimate_assessment 
-
 
 ## Links
+https://github.com/Open-Ecological-Technology/microclimate-assessment

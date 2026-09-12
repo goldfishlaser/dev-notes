@@ -25,6 +25,10 @@ Composition Test
 PH level
 
 NPK test
+[[Nitrogen]]-[[Phosphorous]]-[[Potassium]]
 
 ## Links
 https://www.almanac.com/content/3-simple-diy-soil-tests
+
+
+[Phosphorous]: phosphorous "phosphorous"

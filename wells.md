@@ -12,6 +12,10 @@ created: 2026-06-22
 We have a well on CV property.
 - 100 ft should be clear of potential contaminants
 - pump house structure contains mechanisms for drawing water from the well
-- cistern levels can be checked to judge quantity of water supply
+- [[cistern]] levels can be checked to judge quantity of water supply
 
 ## Links
+[[PVC repair]]
+
+
+[PVC repair]: <PVC repair> "PVC repair"

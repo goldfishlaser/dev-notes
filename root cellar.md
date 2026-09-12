@@ -16,3 +16,4 @@ Build types: Choose between an easy in-ground container (like a buried galvanize
 Depth: Dig deep enough—typically 3 to 8 feet—so that your stored produce sits below the local frost line for steady thermal regulation.
 
 ## Links
+https://www.youtube.com/shorts/UBAFIsdTJcc

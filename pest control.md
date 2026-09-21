@@ -2,7 +2,7 @@
 id: pest-control
 title: pest control
 type: concept
-tags: [ecology]
+tags: [agroecology, pest-control]
 created: 2026-06-22
 ---
 
@@ -13,6 +13,8 @@ created: 2026-06-22
 
 ## Links
 [[disease control]]
-
+[[Integrated Pest Management]]
 
 [disease control]: <disease control> "disease control"
+
+[Integrated Pest Management]: <Integrated Pest Management> "Integrated Pest Management"

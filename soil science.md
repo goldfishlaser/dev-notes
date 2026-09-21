@@ -30,5 +30,6 @@ NPK test
 ## Links
 https://www.almanac.com/content/3-simple-diy-soil-tests
 
+[[soil]]
 
 [Phosphorous]: phosphorous "phosphorous"

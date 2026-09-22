@@ -24,5 +24,10 @@ Types of Soil
 - Medium Loam
 - Chalky Soil
 
+[[Humus]]
+
 ## Links
 [[The Garden Expert]]
+
+
+[The Garden Expert]: <The Garden Expert> "The Garden Expert"

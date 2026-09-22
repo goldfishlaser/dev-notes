@@ -2,7 +2,7 @@
 id: plastic-recycling
 title: plastic recycling
 type: concept
-tags: []
+tags: [reuse]
 created: 2026-08-03
 ---
 
@@ -28,8 +28,11 @@ https://techxplore.com/news/2026-06-scientists-solar-powered-plastic-recycling.h
 [[circular production]]
 [[recycling]]
 [[PET]]
-
+[[HDPE plastic]]
 
 [circular production]: <circular production> "circular production"
 [recycling]: recycling "recycling"
 [PET]: PET "PET"
+
+
+[HDPE plastic]: <HDPE plastic> "HDPE plastic"

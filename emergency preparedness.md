@@ -16,7 +16,7 @@ Making preparations in advance according to the risk of certain disasters to off
 - [[seed saving]]
 - [[water storage]]
 - [[money saving]]
-- [[first aid]]
+- [[first-aid]]
 - [[information security]]
 
 ## Related

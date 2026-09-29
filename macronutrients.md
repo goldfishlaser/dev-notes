@@ -10,5 +10,8 @@ created: 2026-06-22
 
 ## Core idea
 
+Carbohydrates
+Fat
+Protein
 
 ## Links

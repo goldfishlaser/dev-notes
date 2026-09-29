@@ -14,3 +14,8 @@ Whole Foods Plant-Based is a dietary practice of consuming plants closer to thei
 ## Links
 
 https://nutritionstudies.org/whole-food-plant-based-diet-guide/
+[[nutrition]]
+[[plant-based nutrition]]
+
+
+[nutrition]: nutrition "nutrition"

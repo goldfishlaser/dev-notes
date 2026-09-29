@@ -14,8 +14,10 @@ Catching precipitation
 
 ## Links
 [[precipitation]]
-
+requires [[water storage]]
 
 [precipitation]: precipitation "precipitation"
 
 [gutters]: gutters "gutters"
+
+[rain barrel]: <rain barrel> "rain barrel"

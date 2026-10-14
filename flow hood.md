@@ -14,3 +14,7 @@ Provides a clean environment for mycology and other applications
 ## Links
 https://www.youtube.com/watch?v=cfXeKBorpAY
 https://www.youtube.com/watch?v=lInfdAVvBts, https://gordotek.org/laminarflowbox/ 
+
+compared to [[still-air box (SAB)]]
+
+[still-air box (SAB)]: <still-air box (SAB)> "still-air box (SAB)"

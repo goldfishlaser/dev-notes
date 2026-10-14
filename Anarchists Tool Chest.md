@@ -12,14 +12,14 @@ created: 05/18/2025
 ## Key claims I'm thinking with
 The Anarchist's Tool Chest was written by Christopher Schwarz, former editor of Popular Woodworking Magazine. The book makes the case that you can build almost anything with fewer than 50 high-quality hand tools. 
 
-Handplanes
+[[Handplanes]]
 Jack plane
 Plow plane
 Rabbet plane
 Block plane
 Router plane
 
-Marking & Measuring
+[[Marking & Measuring]]
 Cutting gauge
 Panel gauge
 6" Combination square
@@ -32,14 +32,14 @@ Wooden try square, 12" blade
 Sliding bevel
 Dividers, two to four pair
 
-Essential Cutting Tools
+[[Essential Cutting Tools]]
 Bevel edge chisels: 1/8", 1/4", 3/8", 1/2", 3/4" and 1-1/4"
 Mortise chisels: 1/4" or 5/16"
 Spokeshave
 Cabinet, modelling and rattail rasps
 Card scrapers
 
-Striking & Fastening Tools
+[[Striking & Fastening Tools]]
 Chisel Mallet
 Cross-peen hammer
 13 oz to 16 oz claw hammer
@@ -56,7 +56,7 @@ Brad points: 1/8", 3/16", 1/4", 5/16", 3/8", 7/16" and 1/2"
 Birdcage awl
 Dowel plate
 
-Saws
+[[Saws]]
 Dovetail saw
 Carcase saw
 Tenon saw
@@ -64,14 +64,14 @@ Panel saw
 Flush cut saw
 Coping saw
 
-Sharpening
+[[Sharpening Tools]]
 Sharpening stones
 Strop
 Grinder
 Oil can
 Burnisher
 
-Appliances
+[[Woodworking Appliances]]
 Bench hook
 Sawbenches
 Miter box

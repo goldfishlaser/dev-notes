@@ -2,7 +2,7 @@
 id: zinc
 title: Zinc
 type: concept
-tags: []
+tags: [element]
 created: 2026-09-25
 ---
 

@@ -2,7 +2,7 @@
 id: seed-saving
 title: seed saving
 type: concept
-tags: [food, garden, homec]
+tags: [food, gardening, homec]
 created: 2026-08-03
 ---
 

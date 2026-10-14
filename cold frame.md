@@ -12,5 +12,4 @@ created: 2026-09-21
  box with a clear top (glass or plastic) that acts as a miniature, unheated greenhouse 
  captures solar energy during the day to warm the soil and air inside
  protects plants from wind, frost, and snow.
-
-## Links
+[[knowledge base]]

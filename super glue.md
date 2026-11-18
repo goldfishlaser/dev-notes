@@ -9,6 +9,8 @@ created: 2026-10-13
 # super glue
 
 ## Core idea
+ethyl cyanoacrylate
 
+When combined with baking soda, cures faster and harder. 
 
 ## Links

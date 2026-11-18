@@ -2,11 +2,11 @@
 id: ${TM_FILENAME_BASE/([A-Z])|([ _]+)/${1:/downcase}${2:+-}/g}
 title: ${TM_FILENAME_BASE}
 type: practice
-tags: []
+tags: [oetpm]
 created: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}
 ---
 
-# {{title}}
+# ${TM_FILENAME_BASE}
 
 ## Methodology
 

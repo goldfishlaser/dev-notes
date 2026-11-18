@@ -5,11 +5,11 @@ layout: default
 {{ content }}
 
 <script type="text/javascript">
-  // Hack: Replace page-link with "Page Title"
+  // Replace page-link with "Page Title"
   document.querySelectorAll(".markdown-body a[title]").forEach((a) => {
     a.innerText = a.title;
   });
-  // Hack: Fix wikilinks to work with GitHub Pages baseurl
+  // Fix wikilinks to work with GitHub Pages baseurl
   document.querySelectorAll("a").forEach(l => {
     if (l.href.endsWith('.md')) {
       const slug = l.href.substring(0, l.href.length-3).split('/').pop();

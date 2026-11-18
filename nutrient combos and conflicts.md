@@ -13,7 +13,7 @@ created: 2026-09-25
 Nutrients that conflict with each other:
 - [[Calcium]] and [[Iron]]
 - [[Zinc]] and Copper
-- Zinc oand Manganese or Iron
+- Zinc and Manganese or Iron
 - Zinc and Calcium (Lesser)
 - Tannins and Iron
 1-2 hours is usually sufficient as a buffer
@@ -30,3 +30,12 @@ Calcium, magnesium, vitamin C, [[Potassium]], [[B Vitamins]], and Zinc are good 
 Iron is good to take on an empty stomach. 
 
 ## Links
+
+[Calcium]: Calcium "Calcium"
+[Iron]: Iron "Iron"
+[Zinc]: Zinc "Zinc"
+[Vitamin D]: <Vitamin D> "Vitamin D"
+[Vitamin K]: <Vitamin K> "Vitamin K"
+[Magnesium]: Magnesium "Magnesium"
+[Potassium]: Potassium "Potassium"
+[B Vitamins]: <B Vitamins> "B Vitamins"
